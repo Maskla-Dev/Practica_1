@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/ESCOM/Analisis de Algoritmos/Practica 1/main.cpp
+iostream
+-
+chrono
+-
+array
+-
+vector
+-
+fstream
+-
+string
+-
+
